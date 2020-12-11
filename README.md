@@ -1,4 +1,4 @@
-[![Andres's github stats](https://github-readme-stats.vercel.app/api?username=andrebreia)](https://github.com/andrebreia/github-readme-stats)
+[![Andres's github stats](https://github-readme-stats.vercel.app/api?username=andrebreia&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
