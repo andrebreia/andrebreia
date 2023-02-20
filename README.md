@@ -1,4 +1,5 @@
 # Hi, I'm André! 👋
+![](https://komarev.com/ghpvc/?username=andrebreia)
 
 ## Full-stack developer and Tech Lead
 
