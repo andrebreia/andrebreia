@@ -1,17 +1,14 @@
+# Hi, I'm André! 👋
+
+## Full-stack developer and Tech Lead
+
+- 🇫🇷 Based in Lyon
+- 🔭 I’m currently working at Steadfast Collective
+- 👨‍💻 Personal website: https://andrebreia.dev
+- 📫 How to reach me: [contact@andrebreia.dev](mailto:contact@andrebreia.dev)
+- 🔥 Favourite tech stack: Vuejs, Inertia, Laravel, TailwindCSS
+
+------
+
 [![Andres's github stats](https://github-readme-stats.vercel.app/api?username=andrebreia&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**andrebreia/andrebreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
