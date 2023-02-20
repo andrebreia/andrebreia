@@ -1,7 +1,6 @@
-# Hi, I'm André! 👋
-![](https://komarev.com/ghpvc/?username=andrebreia)
+## Hi, I'm André! 👋
 
-## Full-stack developer and Tech Lead
+#### Full-stack developer and Tech Lead
 
 - 🇫🇷 Based in Lyon
 - 🔭 I’m currently working at Steadfast Collective
@@ -13,3 +12,4 @@
 
 [![Andres's github stats](https://github-readme-stats.vercel.app/api?username=andrebreia&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=andrebreia)
