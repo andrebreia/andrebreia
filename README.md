@@ -3,7 +3,7 @@
 ### Full-stack developer and Tech Lead
 
 - 🇫🇷 Based in Lyon
-- 🔭 I’m currently working at Steadfast Collective
+- 🔭 I’m currently working as a Freelancer
 - 👨‍💻 Personal website: https://andrebreia.dev
 - 📫 How to reach me: [contact@andrebreia.dev](mailto:contact@andrebreia.dev)
 - 🔥 Favourite tech stack: Vuejs, Inertia, Laravel, TailwindCSS
