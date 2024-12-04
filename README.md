@@ -1,9 +1,9 @@
 ## Hi, I'm André! 👋
 
-### Full-stack developer and Tech Lead
+### Software Developer
 
 - 🇫🇷 Based in Lyon
-- 🔭 I’m currently working as a Freelancer
+- 🔭 I’m currently working as a Software Developer at Atma Energy
 - 👨‍💻 Personal website: https://andrebreia.dev
 - 📫 How to reach me: [contact@andrebreia.dev](mailto:contact@andrebreia.dev)
 - 🔥 Favourite tech stack: Vuejs, Inertia, Laravel, TailwindCSS
