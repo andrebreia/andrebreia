@@ -23,6 +23,4 @@ I'm a freelance Laravel web developer based in France.
 
 ------
 
-[![Andres's github stats](https://github-readme-stats.vercel.app/api?username=andrebreia&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=andrebreia)
