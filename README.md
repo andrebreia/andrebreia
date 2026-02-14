@@ -1,9 +1,8 @@
 ## Hi, I'm André! 👋
 
-### Software Developer
+I'm a freelance Laravel web developer based in France.
 
-- 🇫🇷 Based in Lyon
-- 🔭 I’m currently working as a Software Developer at Atma Energy
+- 🇫🇷 Based in France
 - 👨‍💻 Personal website: https://andrebreia.dev
 - 📫 How to reach me: [contact@andrebreia.dev](mailto:contact@andrebreia.dev)
 - 🔥 Favourite tech stack: Vuejs, Inertia, Laravel, TailwindCSS
