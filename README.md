@@ -5,7 +5,7 @@ I'm a freelance Laravel web developer based in France.
 - 🇫🇷 Based in France, available to work worldwide
 - 👨‍💻 Personal website: https://andrebreia.dev
 - 📫 How to reach me: [contact@andrebreia.dev](mailto:contact@andrebreia.dev)
-- 🔥 Favourite tech stack: Vuejs, Inertia, Laravel, TailwindCSS
+- 🔥 Favourite tech stack: Laravel, Vuejs, Inertia, TailwindCSS
 
 ### 🚀 Some tools I have used and learned
 <p align="left">
