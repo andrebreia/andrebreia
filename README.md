@@ -34,8 +34,8 @@ I'm a freelance Laravel web developer based in France.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,pgsql,livewire,stripe,redis" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,react" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,vue,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js" />
 </p>
 
 
