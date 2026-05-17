@@ -7,6 +7,18 @@ I'm a freelance Laravel web developer based in France.
 - 📫 How to reach me: [contact@andrebreia.dev](mailto:contact@andrebreia.dev)
 - 🔥 Favourite tech stack: Laravel, Vuejs, Inertia, TailwindCSS
 
+<div align="center">
+  <a href="contact@andrebreia.dev">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/andre-breia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://codepen.io/chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 ### 🚀 Some tools I have used and learned
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45" />
@@ -20,6 +32,13 @@ I'm a freelance Laravel web developer based in France.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="45" height="45" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,pgsql,livewire,stripe,redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,react" />
+</p>
+
+
 
 ------
 
