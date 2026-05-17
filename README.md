@@ -23,7 +23,7 @@ I'm a freelance Laravel web developer based in France.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,vue,react" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts" />
 </p>
 
 
