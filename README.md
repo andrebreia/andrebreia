@@ -3,7 +3,7 @@
 
 ## Hi, I'm André! 👋
 
-I'm a freelance Laravel web developer based in France.
+I'm a freelance Laravel developer based in France.
 
 - 🇫🇷 Based in France, available to work worldwide
 - 👨‍💻 Personal website: https://andrebreia.dev
