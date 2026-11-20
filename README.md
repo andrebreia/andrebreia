@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="Skills" src="https://github.com/user-attachments/assets/626d2359-f443-41c1-91a7-e4824e8ebfe9" />
+<img width="1584" height="396" alt="01 Diagonal split" src="https://github.com/user-attachments/assets/469895df-fc5a-40bf-8036-220827ee7f00" />
 
 
 ## Hi, I'm André! 👋
