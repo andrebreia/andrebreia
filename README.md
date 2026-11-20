@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="01 Diagonal split" src="https://github.com/user-attachments/assets/469895df-fc5a-40bf-8036-220827ee7f00" />
+<img width="1584" height="396" alt="01 Diagonal split gh" src="https://github.com/user-attachments/assets/5e8eb982-bc6c-4f5c-917d-2b4165ae49a4" />
 
 
 ## Hi, I'm André! 👋
